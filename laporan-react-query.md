@@ -31,7 +31,8 @@ Setelah lewat waktu tersebut, React Query akan *refetch* otomatis di background 
 | Refetch data baru | Tidak ada | Ada otomatis di background |
 | Skalabilitas | Terbatas | Sangat cocok untuk data dinamis |
 | Integrasi DevTools | Tidak tersedia | Tersedia bawaan |
-| Maintenance | Harus dikontrol developer | Otomatis |
+| Maintenance | Harus dikontrol developer | Otomatis |<img width="625" height="683" alt="cache-hit" src="https://github.com/user-attachments/assets/fdeefbbb-7059-4d2f-afa6-e7405bd128c9" />
+
 
 ---
 
